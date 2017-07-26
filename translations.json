@@ -1,0 +1,84 @@
+{
+  "language-select": {
+    "language": {
+      "en": "English",
+      "ru": "Russian",
+      "es": "Spanish",
+      "tr": "Turkish"
+    }
+  },
+  "fullpage": {
+    "header": "BUY DIGITAL CURRENCY INSTANTLY",
+    "sub": "Indacoin is the easiest way to buy bitcoins and 30 other cryptocurrencies with Visa & Mastercard",
+    "observe": "Observe all currencies below"
+  },
+  "navbar": {
+    "main": "Main page",
+    "btc": "Buy Bitcoin",
+    "eth": "Buy Ethereum",
+    "affiliate": "Affiliate",
+    "news": "News",
+    "faq": "FAQ",
+    "login": "Login / Signup"
+  },
+  "buy": "Buy",
+  "currency-table": {
+    "rank": "Rank",
+    "coin": "Coin",
+    "market": "Market Cap",
+    "price": "Price",
+    "volume": "Volume 24h",
+    "change": "Change 24h"
+  },
+  "buy-blocks": {
+    "give": "You pay",
+    "get": "You Get"
+  },
+  "exchange-form": {
+    "title": "Buy cryptocurrency instantly",
+    "submit": "Exchange",
+    "give": "You pay",
+    "get": "You get"
+  },
+  "pagination": {
+    "page": "Page",
+    "next": "Show more",
+    "prev": "Previous",
+    "first": "First"
+  },
+  "sidebar": {
+    "accept": {
+      "title": "We accept debit cards",
+      "button": "Buy crypto"
+    },
+    "youtube": {
+      "title": "About us",
+      "play": "Play"
+    },
+    "orders": {
+      "title": "Order's management",
+      "order": "Order #",
+      "confirm": "Confirm Code",
+      "check": "Check your order",
+      "new": "Create New Order",
+      "or": "or"
+    },
+    "social": {
+      "title": "We are social"
+    }
+  },
+  "wiki": {
+    "etymology": "Etymology"
+  },
+  "loading": {
+    "title": "Loading",
+    "sub": "Please wait",
+    "text": "Loading"
+  },
+  "error": {
+    "title": "Error",
+    "sub": "Something went wrong, dont panic",
+    "text": "We are facing unknown error and trying to fix it. Please come back later.",
+    "home": "Home"
+  }
+}
